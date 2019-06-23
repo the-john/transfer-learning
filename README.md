@@ -14,4 +14,4 @@ For more details, please refer to (CS231 Stanford Course Notes)[http://cs231n.gi
 
 Specifically, I use the VGGNet to identify pictures of flowers.  A sample of the training data is below.
 
-![]()
+![Sample Flowers](Sample_Flowers.jpg)
